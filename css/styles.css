@@ -1,0 +1,316 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;0,700;0,800;1,300&display=swap');
+
+/* Colores */
+:root {
+    --color-barra-superior: rgb(30,44,58);
+    --color-sombra-01: rgba(0,0,0,0.13);
+    --color-sombra-02: rgba(0, 0, 0, 0.2);
+    --color-blanco: white;
+    --color-gris-01: rgb(240, 240, 240);
+    --color-gris-02: rgb(220, 220, 220);
+    --color-gris-03: rgb(63, 63, 63);
+    --color-gris-04: rgb(88, 85, 85);
+    --color-titulo-menu: rgb(0, 98, 128);
+    --color-scrollbar-thumb: #cccccc;
+    --color-scrollbar-thumb-hover: #b3b3b3;
+    --color-scrollbar-thumb-active: #999999;
+    --color-scrollbar-track: #e1e1e1;
+    --color-scrollbar-track-hover-active: #d4d4d4;
+    --color-outline-boton-letra: rgb(106, 220, 255);
+    --color-boton-letra: rgb(0, 80, 104); 
+    --color-boton-letra-hover: rgb(174, 235, 253);
+    --color-letra-boton-termino: rgb(50, 50, 50);
+    --color-boton-termino-hover: rgb(206, 241, 252);
+    --color-termino: rgb(165, 165, 165);
+    --color-titulo-termino: rgb(40, 145, 145);
+    --color-letra-informacion-termino: rgb(50, 50, 50);
+    --color-footer: rgb(25, 28, 31);
+    --color-resalte-letra-footer: rgb(244, 255, 91);
+}
+
+/* Estilos Generales */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: var(--color-blanco);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;    
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 12vh;   
+    background-color: var(--color-barra-superior);
+    color: var(--color-blanco);;  
+
+    -webkit-box-shadow: 0px 6px 3px -1px var(--color-sombra-01);
+    -moz-box-shadow: 0px 6px 3px -1px var(--color-sombra-01);
+    box-shadow: 0px 6px 3px -1px var(--color-sombra-01);
+    z-index: 0;     
+}
+
+header h1 {
+    text-align: left;
+    font-size: 2.2rem;
+    font-weight: 100;
+    margin-left: 1rem;
+}
+
+header h1 span {
+    font-weight: bold;
+}
+
+header .estudiante span{
+    font-weight: bold;
+    margin-right: 0.75rem;
+}
+header .icon-box {
+    margin-right: 1rem;
+}
+
+header .link-index {
+    text-decoration: none;
+    color: inherit;
+}
+
+.icono {
+    height: 2.2rem;
+}
+
+/* Main */
+main {
+    display: flex;    
+}
+
+/* Aside */
+aside {
+    display: flex;
+    flex-direction: column;    
+    width: 18%;        
+    min-height:70vh;
+    background-color: var(--color-gris-01);
+    border-right: 1px solid var(--color-gris-02);
+}
+
+aside h2 {    
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    padding: 0.6rem 0;
+    background-color: var(--color-titulo-menu);    
+    color: var(--color-blanco);
+    text-align: center;        
+    font-weight: 600; 
+    font-size: 1.2rem;   
+    height: 7vh;
+}
+
+aside .icono-titulo {
+    height: 1.563rem;
+    margin-right: 0.5rem;
+}
+
+/* Menu de Navegacion */
+#menu {
+    overflow-y: auto; 
+    max-height: 70vh;   
+    color: var(--color-gris-03);
+}
+
+#menu::-webkit-scrollbar {
+    width: 0.5rem;
+    height: 0.5rem;
+}
+
+#menu::-webkit-scrollbar-thumb {
+    background: var(--color-scrollbar-thumb);
+    border-radius: 4px;
+}
+
+#menu::-webkit-scrollbar-thumb:hover {
+    background: var(--color-scrollbar-thumb-hover);
+    box-shadow: 0 0 2px 1px var(sombra-02);
+}
+
+#menu::-webkit-scrollbar-thumb:active {
+    background-color: var(--color-scrollbar-thumb-active);
+}
+
+#menu::-webkit-scrollbar-track {
+    background: var(--color-scrollbar-track);
+    border-radius: 4px;
+}
+
+#menu::-webkit-scrollbar-track:hover,
+#menu::-webkit-scrollbar-track:active {
+    background: var(--color-scrollbar-track-hover-active);
+}
+
+#menu li {
+    list-style: none;
+}
+
+#menu .lista-opciones {
+    display: none;
+}
+
+#menu .boton-letra {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;    
+    width: 100%;
+    padding: 0.438rem 0.438rem 0.438rem 1rem;
+    background-color: transparent;
+    outline: 0.1;
+    outline-color: var(--color-outline-boton-letra);    
+    border: none;
+    text-align: left;
+    font-size: 1.1rem;
+    color: var(--color-letra-boton);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+#menu .boton-letra .icono-boton-letra {
+    height: 15px;
+}
+
+#menu .boton-letra:hover {
+    background-color: var(--color-boton-letra-hover);    
+}
+
+#menu .boton-termino {
+    width: 100%;
+    padding: 0.313rem 0.313rem 0.313rem 2rem;
+    background-color: transparent;
+    outline: 1;     
+    outline-color: var(--color-outline-boton-letra);       
+    border: none;
+    text-align: left;    
+    font-size: 0.9rem;
+    color: var(--color-letra-boton-termino);
+    cursor: pointer;    
+    transition: all 0.2s;
+}
+
+#menu .boton-termino:hover {
+    background-color: var(--color-boton-termino-hover);
+}
+
+#menu button~ul {
+    transition: all 0.2s;
+}
+
+/* Contenido Principal */
+.contenido {    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 82%;
+    min-height: 76vh;    
+    background-color: var(--color-blanco);     
+    overflow: hidden;
+}
+
+.contenido #principal {
+    width: 80%;    
+}
+
+.contenido #principal .wallpaper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenido #principal .wallpaper .img-wallpaper {
+    height: 50vh;
+}
+
+.contenido .termino {  
+    min-height: 50vh;
+    min-width: 100%;
+    border: 1px solid var(--color-termino);
+    border-radius: 10px;
+    background-color: var(--color-blanco);
+    overflow: hidden;    
+    position: relative;
+}
+
+.contenido .termino h2 {
+    text-align: center;
+    padding: 0.6rem;
+    background-color: var(--color-titulo-termino);
+    color: var(--color-blanco);;
+}
+
+.contenido .termino .termino-cuerpo {
+    position: absolute;
+    height: 80%;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    color: var(--color-letra-informacion-termino);     
+}
+
+.contenido .termino .termino-cuerpo-titulo {
+    display: block;    
+    font-weight: bold;
+    margin-bottom: 0.938rem;
+}
+
+.contenido .termino .termino-cuerpo p {    
+    padding: 1.5rem;
+}
+
+.contenido .not-found {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--color-gris-04);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.contenido .icon-not-found {
+    height: 8rem;
+}
+
+/* Footer */
+footer {   
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center; 
+    max-height: 11vh;    
+    padding: 1.25rem;
+    background-color: var(--color-footer);
+    color: var(--color-blanco);
+}
+
+footer p {
+    padding: 0 0.5rem;
+}
+
+footer .icono {
+    color: var(--color-resalte-letra-footer);
+}
+
+footer p span {
+    color: var(--color-resalte-letra-footer);
+    font-weight: bold;
+    font-size: 1rem;
+}

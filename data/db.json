@@ -1,0 +1,412 @@
+{
+  "glosario": [
+    {
+      "letra": "A",
+      "id": 1,
+      "titulo": "Auditoría",
+      "definicion": "Examen que busca emitir una opinión acerca de la razonabilidad, consistencia y apego a los principios y normas contables aplicables y en general al marco de información financiera de una entidad."
+    },
+    {
+      "letra": "A",
+      "id": 2,
+      "titulo": "Auditor",
+      "definicion": "Profesional en el área de la Contabilidad, con grado de licenciatura en la misma y que está facultado la ley a ejercer su profesión y a su vez es supervisado por el órgano de mayor control en el país."
+    },
+    {
+      "letra": "A",
+      "id": 3,
+      "titulo": "Auditoría Interna",
+      "definicion": "Evalúa la efectividad de los registros contables y/o demás mecanismos o procedimientos que posee una empresa, con la intención de prever modificaciones en los mismos para hacerlos más confiables y seguros, y de esa manera evitar al máximo las posibles irregularidades motivadas por un deficiente control interno de la empresa."
+    },
+    {
+      "letra": "A",
+      "id": 4,
+      "titulo": "Auditoría Externa",
+      "definicion": "Es el examen crítico, sistemático y detallado de un sistema de información de una unidad económica, realizado por un Contador Público sin vínculos laborales con la misma, utilizando técnicas determinadas con el objeto de emitir una opinión independiente sobre la forma como opera el sistema, el control interno del mismo y formular sugerencias para su mejoramiento."
+    },
+    {
+      "letra": "B",
+      "id": 5,
+      "titulo": "Balances",
+      "definicion": "Documentos contables que indican la situación económica y financiera de una sociedad en un momento concreto."
+    },
+    {
+      "letra": "C",
+      "id": 6,
+      "titulo": "Contabilidad",
+      "definicion": "Ciencia y técnica que enseña a recopilar, clasificar y registrar de una forma sistemática y estructural, las operaciones mercantiles realizadas por una empresa."
+    },
+    {
+      "letra": "C",
+      "id": 7,
+      "titulo": "Control Interno",
+      "definicion": "Sistema interno de seguimiento y fiscalización de las actividades diarias de una empresa y de las personas quienes las realizan."
+    },
+    {
+      "letra": "C",
+      "id": 8,
+      "titulo": "Confidencialidad",
+      "definicion": "Principio Ético que dicta que la información que se recopila es de uso restringido y confidencial, que compete sólo aquellos a quienes este dirigida."
+    },
+    {
+      "letra": "C",
+      "id": 9,
+      "titulo": "Costo Razonable",
+      "definicion": "Las auditorías son costosas para las empresas, no solo en dinero sino también en tiempo."
+    },
+    {
+      "letra": "C",
+      "id": 10,
+      "titulo": "Carta de Compromiso",
+      "definicion": "Documento emitido por el auditor previo al desarrollo de la auditoría, en ella se define el objetivo, alcance y responsabilidades del auditor y delimita las responsabilidades del gobierno de la organización."
+    },
+    {
+      "letra": "D",
+      "id": 11,
+      "titulo": "Devengo",
+      "definicion": "Principio contable que dicta que los registros contables se reconocen cuando ocurren y no cuando el efectivo es recibido o pagado."
+    },
+    {
+      "letra": "D",
+      "id": 12,
+      "titulo": "Deontología",
+      "definicion": "Conjunto de reglas profesionales sancionadas por una instancia disciplinaria. Es el estudio de las reglas o normas de la conducta buena que le corresponde asumir a una persona o conjunto de personas en el ejercicio de sus actividades profesionales."
+    },
+    {
+      "letra": "E",
+      "id": 13,
+      "titulo": "Error",
+      "definicion": "Situación que no es planeada ni  deliberada, es lo opuesto al fraude y se caracteriza por no ser detectada previamente por quien incurre en él."
+    },
+    {
+      "letra": "E",
+      "id": 14,
+      "titulo": "Evidencia",
+      "definicion": "Toda la documentación o información en la cual respalda su criterio el auditor y que es suficiente y relevante para respaldar su opinión."
+    },
+    {
+      "letra": "E",
+      "id": 15,
+      "titulo": "Estrategia Global de Auditoría",
+      "definicion": "Documento en el cual quedan plasmados en términos generales, los principales aspectos del alcance, momento y dirección del encargo de auditoría."
+    },
+    {
+      "letra": "E",
+      "id": 16,
+      "titulo": "Estándar",
+      "definicion": "Es el punto de comparación que tiene el auditor, para poder evaluar si la situación bajo examen cumple o no, con un determinado patrón establecido con anterioridad a la ocurrencia de la situación, en otras palabras, cualquier documento que nos permita apoyar el dictamen final del auditor."
+    },
+    {
+      "letra": "E",
+      "id": 17,
+      "titulo": "Ética Profesional",
+      "definicion": "Es la ciencia que estudia la bondad o maldad de los actos humanos; es el estudio de la moral en todas sus diversas manifestaciones."
+    },
+    {
+      "letra": "E",
+      "id": 18,
+      "titulo": "Escepticismo profesional",
+      "definicion": "Es una actitud que incluye una mente inquisitiva, estar alerta a condiciones que puedan indicar una posible representación errónea debida a error o fraude, y una valoración crítica de la evidencia de auditoría y de la seguridad razonable."
+    },
+    {
+      "letra": "F",
+      "id": 19,
+      "titulo": "Fiabilidad",
+      "definicion": "Sinónimo de certeza, su veracidad y trascendencia son reconocidas por todos y sustentadas."
+    },
+    {
+      "letra": "F",
+      "id": 20,
+      "titulo": "Fraude",
+      "definicion": "Delito cometido deliberadamente por un individuo o grupo los cuales buscan un beneficio propio en perjuicio de otro y de sus intereses. La intención es causar un dolo a otros, producto de su ejecución."
+    },
+    {
+      "letra": "F",
+      "id": 21,
+      "titulo": "Fe Pública",
+      "definicion": "Potestad y autoridad conferida por las autoridades competentes que da confiabilidad y reconocimiento público a la labor que desempeña quien ostenta tal título, es reconocida por todos como cierta."
+    },
+    {
+      "letra": "G",
+      "id": 22,
+      "titulo": "Grado de Consanguinidad",
+      "definicion": "Constituyen un vínculo de parentesco de sangre que determina las diferentes generaciones de una familia, o según el grado de afinidad que los vincula."
+    },
+    {
+      "letra": "H",
+      "id": 23,
+      "titulo": "Honorarios Profesionales",
+      "definicion": "Remuneración que se cobra por la realización del trabajo de auditoría y que es justa, honesta y coherente."
+    },
+    {
+      "letra": "H",
+      "id": 24,
+      "titulo": "Habilidades Técnicas",
+      "definicion": "Conocimientos adquiridos a través de la formación y la experiencia que facultan al profesional para desempeñar su trabajo a cabalidad."
+    },
+    {
+      "letra": "I",
+      "id": 25,
+      "titulo": "IFAC",
+      "definicion": "Es la organización mundial de la profesión contable dedicada a servir al interés público mediante el fortalecimiento de la profesión y contribuyendo al desarrollo de economías internacionales fuertes."
+    },
+    {
+      "letra": "I",
+      "id": 26,
+      "titulo": "Importancia Relativa",
+      "definicion": "La magnitud o naturaleza de un error (incluyendo una  omisión) en la información financiera que, bien individualmente o en su conjunto, y a la luz de las  circunstancias que le rodean hace probable que el juicio de una persona razonable, que confía en la  información, se hubiera visto influenciado o su decisión afectada como consecuencia del error u omisión."
+    },
+    {
+      "letra": "I",
+      "id": 27,
+      "titulo": "Incertidumbre",
+      "definicion": "Falta de seguridad, de confianza o de certeza sobre algo, especialmente cuando crea inquietud y una constante expectativa sobre sus efectos a futuro."
+    },
+    {
+      "letra": "I",
+      "id": 28,
+      "titulo": "Integridad",
+      "definicion": "Se traduce como honradez, honestidad, respeto por los demás, corrección, responsabilidad, control emocional, respeto por sí mismo, puntualidad, lealtad, pulcritud, disciplina, congruencia y firmeza en las acciones. En general, una persona íntegra es alguien en quien se puede confiar y que integra todos los valores que representa."
+    },
+    {
+      "letra": "I",
+      "id": 29,
+      "titulo": "Independencia",
+      "definicion": "Estado justo y que evita la influencia de terceras partes en la toma de decisiones, no compromete su juicio ni sus acciones por favorecer intereses de otros en pro de manipular los resultados."
+    },
+    {
+      "letra": "I",
+      "id": 30,
+      "titulo": "Incorrección Material",
+      "definicion": "Proceso(s) que se viene desarrollando más ya sea por fraude o error y que aún no ha sido detectado por el control interno o por los encargados del gobierno de la empresa y que puede acabar en un riesgo para el auditor."
+    },
+    {
+      "letra": "J",
+      "id": 31,
+      "titulo": "Juicio Profesional",
+      "definicion": "Aplicación del entrenamiento, conocimiento y experiencia relevantes, dentro del contexto que dan las normas de auditoría, contabilidad y ética, para tomar decisiones informadas sobre los cursos de acción que sean apropiados en las circunstancias del trabajo de auditoría."
+    },
+    {
+      "letra": "L",
+      "id": 32,
+      "titulo": "Ley 1038",
+      "definicion": "Creación del Colegio de Contadores Públicos de Costa Rica, en el año de 1947."
+    },
+    {
+      "letra": "M",
+      "id": 33,
+      "titulo": "Marco de Información Aplicable",
+      "definicion": "Normativa que rige, fundamenta y que resulta aceptable para elaborar los estados financieros y les da confiabilidad."
+    },
+    {
+      "letra": "M",
+      "id": 34,
+      "titulo": "Marco de Información Financiera",
+      "definicion": "La forma en la que la empresa realiza sus estados financieros y debe de tener tratamiento. Es responsabilidad de la empresa."
+    },
+    {
+      "letra": "M",
+      "id": 35,
+      "titulo": "Materialidad",
+      "definicion": "Nivel aceptable de error que el auditor está dispuesto a aceptar en términos de importancia relativa."
+    },
+    {
+      "letra": "N",
+      "id": 36,
+      "titulo": "Normas Internaciones de Auditoría",
+      "definicion": "Conjunto de normas y reglamentos expedidos por el IFAC, las cuales le permiten al auditor desarrollar su trabajo de una manera profesional y basada en herramientas de alta calidad y de reconocimiento mundial."
+    },
+    {
+      "letra": "N",
+      "id": 37,
+      "titulo": "Neutralidad",
+      "definicion": "Postura moral y criterio que toma el auditor en el ejercicio de su trabajo, este le sirve para no ver comprometido su criterio profesional ante diversas situaciones y personas con las cuales se relaciona en el ejercicio de su trabajo."
+    },
+    {
+      "letra": "O",
+      "id": 38,
+      "titulo": "Opinión Limpia",
+      "definicion": "Es la opinión emitida por el auditor, en la cual este está de acuerdo y sin reservas, sobre la presentación y contenido de los estados financieros, los cuales da por razonables y suficientes en cuanto al nivel de revelación que aportan."
+    },
+    {
+      "letra": "O",
+      "id": 39,
+      "titulo": "Opinión con Salvedad",
+      "definicion": "Es la opinión emitida por el auditor, en la cual este se encuentra de acuerdo con buena parte del contenido y presentación de los estados financieros, pero que por razones de hallazgos, se ve imposibilitado de emitir una opinión limpia ya que hay salvedades las cuales deja en evidencia."
+    },
+    {
+      "letra": "O",
+      "id": 40,
+      "titulo": "Objetividad",
+      "definicion": "La objetividad es una actitud mental que los auditores deben tener cuando desempeñan su trabajo, esta debe de ser mentalmente imparcial y neutral, y evitar situaciones de conflicto de intereses, dado que perjudicarán su capacidad de cumplir sus obligaciones."
+    },
+    {
+      "letra": "P",
+      "id": 41,
+      "titulo": "Prudencia",
+      "definicion": "Es la inclusión de un cierto grado de precaución en el ejercicio de juicios necesarios para efectuar las estimaciones requeridas bajo condiciones de incertidumbre."
+    },
+    {
+      "letra": "P",
+      "id": 42,
+      "titulo": "Plan de Auditoría",
+      "definicion": "Documento que describe las actividades y los detalles acordados de una Auditoría, el nivel de detalle el cual debe reflejar el alcance y complejidad de la auditoría, así como los riesgos de no lograr los objetivos."
+    },
+    {
+      "letra": "P",
+      "id": 43,
+      "titulo": "Papeles de Trabajo",
+      "definicion": "Es el conjunto de folios y documentos que contienen los datos e información obtenida por el auditor en su revisión, en los cuales se describen las pruebas realizadas, los procedimientos aplicados y los resultados con los que se sustentan y apoyan las observaciones, recomendaciones, acciones, etc."
+    },
+    {
+      "letra": "R",
+      "id": 44,
+      "titulo": "Riesgo de Auditoría",
+      "definicion": "Grado de peligro de que la auditoría genere una opinión errónea."
+    },
+    {
+      "letra": "R",
+      "id": 45,
+      "titulo": "Riesgo de Incorrección Material",
+      "definicion": "Riesgo de que los estados financieros tengan errores materiales antes de realizar la intervención financiera."
+    },
+    {
+      "letra": "R",
+      "id": 46,
+      "titulo": "Riesgo Inherente",
+      "definicion": "Es la susceptibilidad de que un tipo de transacción o proceso siempre mantenga un nivel de error, es imposible de anular."
+    },
+    {
+      "letra": "R",
+      "id": 47,
+      "titulo": "Riesgo de Control",
+      "definicion": "Es responsabilidad de la empresa, riesgo de que una incorrección material no sea detectada o corregida por el sistema de control interno de la empresa."
+    },
+    {
+      "letra": "R",
+      "id": 48,
+      "titulo": "Razonabilidad",
+      "definicion": "Propiedad de los estados financieros de transmitir, sin ambigüedades información adecuada, particularmente cuando van acompañados en un uniforme de auditoría, donde se dice que presenta razonablemente, con la precisión requerida de acuerdo con los requisitos legales y técnicos."
+    },
+    {
+      "letra": "R",
+      "id": 49,
+      "titulo": "Relevancia",
+      "definicion": "Se refiere a la relación que existe entre la evidencia y su uso, así como su importancia relativa. Cuando se estime conveniente, el auditor deberá obtener de los funcionarios de la entidad auditada declaraciones por escrito respecto a la relevancia y competencia de la evidencia que haya obtenido."
+    },
+    {
+      "letra": "S",
+      "id": 50,
+      "titulo": "Sesgo",
+      "definicion": "Sinónimo de error, este puede ser intencional o deliberado."
+    },
+    {
+      "letra": "T",
+      "id": 51,
+      "titulo": "Transparencia",
+      "definicion": "El Contador Público Autorizado debe caracterizarse por la honradez, la objetividad, la franqueza, la responsabilidad, la confidencialidad y la integridad."
+    },
+    {
+      "letra": "P",
+      "id": 52,
+      "titulo": "Pruebas de Cumplimiento",
+      "definicion": "Es una prueba que reúne evidencia de auditoria para indicar si un control funciona efectivamente y logra sus objetivos. Cumplimiento con autorización general o particular."
+    },
+    {
+      "letra": "P",
+      "id": 53,
+      "titulo": "Pruebas de Doble Propósito",
+      "definicion": "Consisten en aquellas pruebas de detalle que se realizan sobre las transacciones y saldos para la obtención de la evidencia relacionada con la validez y el tratamiento contable; la idea de este tipo de pruebas es determinar eventuales errores que estén implicados en el procesamiento de los datos contables."
+    },
+    {
+      "letra": "P",
+      "id": 54,
+      "titulo": "Pruebas de Recorrido",
+      "definicion": "El auditor conoce a profundidad cada uno de los procesos claves y a partir de este conocimiento identifica los riesgos y los controles que mitigan los mismos. Se utiliza el mismo formato para documentar tanto los procesos claves financieros como los procesos claves presupuestales."
+    },
+    {
+      "letra": "T",
+      "id": 55,
+      "titulo": "Técnicas de Auditoria",
+      "definicion": "Son aquellos procedimientos y metodologías emprendidas por la persona responsable (auditor) de evaluar o analizar (auditar) una organización."
+    },
+    {
+      "letra": "P",
+      "id": 56,
+      "titulo": "Procedimientos de Auditoría",
+      "definicion": "Son el conjunto de técnicas de investigación aplicables a una partida o a un grupo de hechos y circunstancias relativas a los estados financieros sujetos a examen, mediante los cuales, el contador público obtiene las bases para fundamentar su opinión."
+    },
+    {
+      "letra": "E",
+      "id": 57,
+      "titulo": "Extensión o Alcance",
+      "definicion": "Nivel Amplitud que se le da a los procedimientos, es decir la intensidad y profundidad con que se aplican para llegar a hallazgos y conclusiones suficientes. En esta etapa es fundamental aplicar procedimientos al estudio de partidas específicas y al análisis en su totalidad de las actividades y el impacto que tienen en la organización."
+    },
+    {
+      "letra": "A",
+      "id": 58,
+      "titulo": "Afirmaciones",
+      "definicion": "Manifestaciones de la dirección, explícitas o no, incluidas en los estados financieros y tenidas en cuenta por el auditor al considerar los distintos tipos de incorrecciones que pueden existir."
+    },
+    {
+      "letra": "C",
+      "id": 59,
+      "titulo": "Causa",
+      "definicion": "Condición concreta que origina el evento y que provoca incertidumbre."
+    },
+    {
+      "letra": "E",
+      "id": 60,
+      "titulo": "Evento",
+      "definicion": "Incidente o situación que podría presentarse en un lugar y momento especifico e indeterminado y que afecta el cumplimiento de los objetivos."
+    },
+    {
+      "letra": "I",
+      "id": 61,
+      "titulo": "Impacto o Consecuencia",
+      "definicion": "Efectos derivados de la eventual materialización de un evento, expresado cualitativa o cuantitativamente, sean estos perdidas, perjuicios, desventajas o ganancia."
+    },
+    {
+      "letra": "C",
+      "id": 62,
+      "titulo": "Confirmación Externa",
+      "definicion": "Es el proceso de obtener y evaluar evidencia de auditoría a través de una comunicación directa de un tercero, en respuesta a una solicitud de información sobre una partida particular que afecta las aseveraciones hechas por la administración en los estados financieros."
+    },
+    {
+      "letra": "C",
+      "id": 63,
+      "titulo": "Confirmación Negativa",
+      "definicion": "Las confirmaciones negativas según la NIA 505, se refieren a esas respuestas que provienen por parte de las confirmaciones externas que de alguna forma no son positivas para la empresa que se está auditando."
+    },
+    {
+      "letra": "N",
+      "id": 64,
+      "titulo": "Negocio en Marcha",
+      "definicion": "Término contable para una empresa con recursos necesarios para seguir operando sin la amenaza de una liquidación en el futuro previsible, se espera que permanezca en el tiempo operando."
+    },
+    {
+      "letra": "H",
+      "id": 65,
+      "titulo": "Hechos Posteriores",
+      "definicion": "Son acontecimientos o transacciones, ya sean favorables o desfavorables, que se han producido con posterioridad al cierre del ejercicio contable, pero antes de la fecha de emisión del informe de auditoría."
+    },
+    {
+      "letra": "P",
+      "id": 66,
+      "titulo": "Partes Relacionadas",
+      "definicion": "Cuando se encuentran presentes vínculos, relaciones o condiciones que ocasionan de forma directa o indirecta de manera significativa en la toma de decisiones en la operación, administración o en la consecuencia de sus intereses u objetivos."
+    },
+    {
+      "letra": "C",
+      "id": 67,
+      "titulo": "Código de Ética",
+      "definicion": "Enmarca una serie de reglas, normativas, derechos y deberes que restringen y amparan a la persona para mantenerse al margen de errores profesionales y morales, al mismo tiempo guían el buen desempeño profesional."
+    },
+    {
+      "letra": "E",
+      "id": 68,
+      "titulo": "Escepticismo Profesional",
+      "definicion": "\"...una actitud que incluye un estado de alerta a las condiciones que puedan indicar un posible error debido a fraude o equivocación, efectuando una evaluación crítica de la evidencia de auditoría\"."
+    }
+  ]
+}
